@@ -1,16 +1,16 @@
-# loginforms
+# Login Forms
 
-A new Flutter project.
+Different type of Login forms built in Flutter
 
-## Getting Started
+![demo](https://user-images.githubusercontent.com/88984953/201995129-cd680a84-5d61-4bdd-8fa6-9d3ea8b88f60.gif)
 
-This project is a starting point for a Flutter application.
+## Getting Started with: 
 
-A few resources to get you started if this is your first Flutter project:
+- You can use [Zapp](https://zapp.run/edit/flutter?entry=lib/main.dart&file=lib/main.dart/ "Zapp") if you don't want to check in a emulator, that basically runs into your browser
+- Zapp! is a free online sandbox environment for building & sharing Flutter applications, supporting all pub.dev packages, static analysis, embedding, previewing and much more.
+- Just Clone the Repo into your system or import in Zapp. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Project is open to Contribution!
+
+
